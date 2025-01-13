@@ -7,8 +7,8 @@ This repository showcases a series of **Sales** and **Finance** reports generate
 ## Sales Reports 📈
 
 ### **Project Objective:**  
-1. Create a _[Customer Performance Report](https://github.com/Nagendra68/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_.  
-2. Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/Nagendra68/Excel-Sales_Analysis/blob/main/Market%20Performance%20vs%20Target.pdf)_.
+1. Create a _[Customer Performance Report](https://github.com/Nagendra68/Excel-Sales-Analytics/blob/main/Net%20sales%20performance%20report.pdf)_.  
+2. Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/Nagendra68/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_.
 
 ### **Purpose of Sales Analytics:**  
 - Empower businesses to monitor and evaluate their sales activities and performance.
@@ -31,8 +31,8 @@ This repository showcases a series of **Sales** and **Finance** reports generate
 ## Finance Reports 💰
 
 ### **Project Objective:**  
-1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Nagendra68/Excel-Sales_Analysis/blob/main/P%26L%20Report%20by%20Fiscal%20Year.pdf)_ and _[Country](https://github.com/Nagendra68/Excel-Sales_Analysis/blob/main/P%26L%20by%20Country.pdf)_.  
-2. Provide insights into financial performance through market-based P&L evaluations.
+1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Nagendra68/Excel-Sales-Analytics/blob/main/P%26L%20Report%20by%20fiscal%20year.pdf)_.  
+2. Provide insights into financial performance through market-based P&L evaluations. [Market](https://github.com/Nagendra68/Excel-Sales-Analytics/blob/main/P%26L%20by%20Country.pdf)
 
 ### **Purpose of Finance Analytics:**  
 - Evaluate financial performance.  
