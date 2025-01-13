@@ -33,9 +33,9 @@ This repository showcases a series of **Sales** and **Finance** reports generate
 ### **Project Objective:**  
 1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Nagendra68/Excel-Sales-Analytics/blob/main/P%26L%20Report%20by%20fiscal%20year.pdf)_.
 
-2. Create Profit and Loss (P&L) reports by _[Month](https://github.com/Nagendra68/Excel-Sales-Analytics/blob/main/P%26L%20Report%20by%20fiscal%20year.pdf)_.  
+2. Create Profit and Loss (P&L) reports by _[Month](https://github.com/Nagendra68/Excel-Sales-Analytics/blob/main/P%26L%20Months.pdf)_.  
 
-3. Provide insights into financial performance through market-based P&L evaluations. [Market](https://github.com/Nagendra68/Excel-Sales-Analytics/blob/main/P%26L%20by%20Country.pdf)
+3. Provide insights into financial performance through market-based P&L evaluations. [Market](https://github.com/Nagendra68/Excel-Sales-Analytics/blob/main/P%26L_for_Market.pdf)
 
    
 ### **Purpose of Finance Analytics:**  
