@@ -89,7 +89,7 @@ This repository showcases a series of **Sales** and **Finance** reports generate
 
 If you have feedback, suggestions, or want to collaborate, feel free to reach out:  
 - **GitHub**: [Nagendra68](https://github.com/Nagendra68)  
-- **Linkedin**: [Nagendra bardahe](www.linkedin.com/in/nagendrabardahe) 
+- **Linkedin**: [Nagendra bardahe]
 
 ---
 
